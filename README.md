@@ -65,7 +65,7 @@
  In the above example, "2", "y", and "Example_Network.txt" were typed by the user.
 
  The next major form of output is in the network graphs generated through MatPlotLib. Thus, it is recommended to run this code in an environment that allows for viewing of these plots. One option is Jupyter notebooks (in which this code was originally produced), but any IDE that shows Python plots is acceptable. The graphs will mostly appear as follows:
- ![Watts Strogatz Graph Example](Example.png)
+ ![Watts Strogatz Graph Example](graph_example.png)
 
  The final form of output is the same as the input, in an edge-network text file containing a list of which nodes are connected to each other. This will be formatted like above, but to give an example, here is a sample output:
  ```
