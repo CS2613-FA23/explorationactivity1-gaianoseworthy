@@ -62,7 +62,7 @@
  ```
 
  This will produce an image similar to the one that follows:
- ![Watts Strogatz Graph Example](Example.png)
+ ![Watts Strogatz Graph Example](graph_example.png)
 
  If, instead, you prefer to import a graph, the easiest way is to use an edge list. One is provided in the ReadMe as
  ```
