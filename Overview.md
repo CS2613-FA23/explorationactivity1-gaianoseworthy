@@ -226,7 +226,7 @@
 
  [5] https://networkx.org/
 
- [6] https://networkx.org/documentation/stable/reference/generators.html
+ [6] [Generators](https://networkx.org/documentation/stable/reference/generators.html)
 
  [7] R. Albert and A.-L. Barabási, “Statistical mechanics of complex networks”, Reviews of Modern Physics, 74, pp. 47-97, 2002. https://arxiv.org/abs/cond-mat/0106096
 
@@ -236,9 +236,9 @@
 
  [10] Duncan J. Watts and Steven H. Strogatz, Collective dynamics of small-world networks, Nature, 393, pp. 440–442, 1998.
 
- [11] https://networkx.org/documentation/stable/reference/drawing.html
+ [11] [Drawing](https://networkx.org/documentation/stable/reference/drawing.html)
 
- [12] https://networkx.org/documentation/stable/reference/algorithms/index.html
+ [12] [Algorithms](https://networkx.org/documentation/stable/reference/algorithms/index.html)
 
  [13] [Average Shortest Path Length](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.shortest_paths.generic.average_shortest_path_length.html)
 
