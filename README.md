@@ -3,7 +3,7 @@
  ## By Gaia Noseworthy - 3554411
 
  ### Introduction
- In this GitHub repo, you will be introduced to NetworkX, a Python 3 library for the generation, manipulation, and study of various networks. In this document, you will find a summary of this repo, which will include both a wiki section to answer common questions, as well as sample code that serves a rough purpose for both demonstration and usage of NetworkX.
+ In this GitHub repo, you will be introduced to NetworkX[1], a Python 3 library for the generation, manipulation, and study of various networks. In this document, you will find a summary of this repo, which will include both a wiki section to answer common questions, as well as sample code that serves a rough purpose for both demonstration and usage of NetworkX.
 
  ### How To Use
  If you wish to run the code here, you will need to install NetworkX in some way. If you are in a Linux distribution like Arch or Ubuntu, this may be as simple as running one of the following:
@@ -91,6 +91,9 @@
  5 9 {}
  6 9 {}
  ```
+
+ ### References
+ [1] Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008
 
  ### License
  The NetworkX License is as follows:
